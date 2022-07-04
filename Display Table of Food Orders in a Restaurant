@@ -40,7 +40,7 @@ tableNumberi is a valid integer between 1 and 500.
 
 solution:
 class Solution {
-public:
+public: 
     vector<vector<string>> displayTable(vector<vector<string>>& orders) {
         set<int> table;
         set<string> food;
